@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "Name": "GreenTea",
+        "Type": "Tea",
+        "Water": 100,
+        "Ice": 50,
+        "Milk": 30,
+        "Milk_Foam": 10,
+        "Price": 30
+    },
+    {
+        "ID": 2,
+        "Name": "Latte",
+        "Type": "Coffee",
+        "Water": 100,
+        "Ice": 50,
+        "Milk": 30,
+        "Milk_Foam": 10,
+        "Price": 30
+    },
+    {
+        "ID": 3,
+        "Name": "Americano",
+        "Type": "Coffee",
+        "Water": 100,
+        "Ice": 50,
+        "Milk": 0,
+        "Milk_Foam": 0,
+        "Price": 40
+    },
+    {
+        "ID": 4,
+        "Name": "Cocoa",
+        "Type": "Tea",
+        "Water": 100,
+        "Ice": 50,
+        "Milk": 30,
+        "Milk_Foam": 10,
+        "Price": 30
+    }
+]
