@@ -1,2 +1,2 @@
-# Project_OOP
+# Project_ShipBaCafe
 ฝึกใช้ Python ในการทำ GUI โปรแกรมเครื่องขายเครื่องดื่มคล้ายๆ เต่าบิน ดูรายละเอียดใน PDF
